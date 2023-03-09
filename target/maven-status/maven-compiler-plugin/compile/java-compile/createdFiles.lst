@@ -1,0 +1,11 @@
+com\assignment\openweatherservice\service\WeatherService.class
+com\assignment\openweatherservice\config\RestTemplateConfig.class
+com\assignment\openweatherservice\dto\WeatherResponse.class
+com\assignment\openweatherservice\OpenWeatherServiceApplication.class
+com\assignment\openweatherservice\weatherstack\ErrorResponse.class
+com\assignment\openweatherservice\repository\WeatherRepository.class
+com\assignment\openweatherservice\dto\Request.class
+com\assignment\openweatherservice\dto\Current.class
+com\assignment\openweatherservice\weatherstack\Error.class
+com\assignment\openweatherservice\controller\WeatherController.class
+com\assignment\openweatherservice\dto\Location.class
